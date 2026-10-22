@@ -1,5 +1,7 @@
 # DSH 飞书工作流 · 演示
 
+[![GitHub stars](https://img.shields.io/github/stars/82271617-maker/dsh-feishu-demo?style=social)](https://github.com/82271617-maker/dsh-feishu-demo)
+
 一句话：**读网页 → 分析 → 写飞书 → 回链接**。
 
 > 完整安装包 **9.9 元**，在公众号文章内获取。
@@ -42,6 +44,10 @@
 - 已经踩过的坑（`lark-cli` 授权、飞书权限、路径）
 - 3 个能直接套用的模板
 - 后续更新
+
+## 支持一下
+
+如果这个演示对你有用，点右上角 **⭐ Star**，让更多人看到。
 
 ## License
 
